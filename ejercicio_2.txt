@@ -1,0 +1,21 @@
+- En que se diferencia una red intranet de una extranet?
+Mientras que en el intranet sería la red privada interna de una empresa, el extranet sería una red restringida a los usuarios extornos que tengan acceso.
+ - Cómo traducirías request-response en español?
+Solicitud/Consulta y respuesta a esa consulta o solicitud.
+
+- Para qué sirve un FTP? Cual es la carpeta donde subir los archivos para que se publique nuestra web?
+Para gestionar archivos directamente en el servidor y carpeta donde esté alojada tu web. Normalmente htdocs o public_html
+
+- En qué se diferencian el DNS primario del secundario?
+El secundario es una copia para evitar errores en el servidor,
+
+- Qué es un ataque DDos?
+De denegación de servicios, es decir que crean un montón de peticiones/visitas a al servidor de tu web para hacerlo caer.
+
+- Comparte aquí el enlace a tu web subida mediante Filezilla.
+http://ironhackvja.byethost3.com/?i=1
+ 
+3- Visualiza los videos mencionados en el apartado de información. Cuáles son tus conclusiones o dudas? Puedes compartirlas en clase?
+
+
+
